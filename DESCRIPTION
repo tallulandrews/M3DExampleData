@@ -6,6 +6,6 @@ Author: Tallulah Andrews <tallulandrews@gmail.com>
 Maintainer: Tallulah Andrews <tallulandrews@gmail.com>
 Depends: R (>= 3.2.0)
 LazyData: true
-biocViews: ExperimentData
+biocViews: Mus_musculus_Data, RNASeqData, ExpressionData, GEO, Tissue, ExperimentData
 Description: Example data for M3Drop package.
 License: GPL (>=2)
