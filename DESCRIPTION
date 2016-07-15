@@ -1,11 +1,11 @@
 Package: M3DExampleData
-Version: 0.98.0
-Date: 2016-02-10
+Version: 0.99.1
+Date: 2016-07-15
 Title: M3Drop Example Data
 Author: Tallulah Andrews <tallulandrews@gmail.com>
 Maintainer: Tallulah Andrews <tallulandrews@gmail.com>
 Depends: R (>= 3.2.0)
 LazyData: true
-biocViews: RNASeq, ExperimentData
+biocViews: ExperimentData
 Description: Example data for M3Drop package.
 License: GPL (>=2)

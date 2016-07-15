@@ -1,0 +1,15 @@
+---
+title: 'M3Drop Example Data'
+# Introduction 
+This package contains example data for the M3Drop package. It contains the expression matrix and time-point labels for a subset of the Deng et al. (2014) single cell RNASeq mouse embryonic development dataset. Includes timepoints: early2cell, mid2cell, late2cell, earlyblast and midblast.
+
+Source:
+Gene Expression Omnibus: Accession GSE45719
+
+Reference:
+Deng, Q., Ramskold, D., Reinius, B., Sandberg, R., (2014) Single-Cell RNA-Seq Reveals Dynamic, Random Monoallelic Gene Expression in Mammalian Cells. Science. 343(6167):193-196.
+
+# Load Data
+```{r}
+library(M3DExampleData)
+```
